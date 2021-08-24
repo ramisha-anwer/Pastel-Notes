@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554556113740",
+    "project_id": "pastel-notes-eeed4",
+    "storage_bucket": "pastel-notes-eeed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554556113740:android:732183338a340a829885e9",
+        "android_client_info": {
+          "package_name": "com.example.pastelnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554556113740-hvm2fl5p29gjnd2g9lo9ks4hg9mnuum6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCquEzE2IhDr3B4rTXnNW9NBuI89GF3Glk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554556113740-hvm2fl5p29gjnd2g9lo9ks4hg9mnuum6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
